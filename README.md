@@ -103,3 +103,7 @@ And pipeline status is "Completed".
 
 ![pipelinecompleted](https://github.com/uemuratakumi/azure-udacity-report2/assets/132246132/5bcc3e4b-191e-4937-aa4a-c13580f1e40f)
 
+
+### screen cast of how to use Azure-ML
+My screencast is upload on below.
+https://youtu.be/_2QR_fgWTUg
