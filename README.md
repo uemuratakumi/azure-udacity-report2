@@ -76,4 +76,23 @@ By conducted the ipynb file, the pipeline is created as shown below.
 
 ![pipeline_create](https://github.com/uemuratakumi/azure-udacity-report2/assets/132246132/25d4e25c-4aad-4c87-95bd-502f31795a71)
 
+If the process is finished, "Completed" is shown.
+
+![pipelinecompleted](https://github.com/uemuratakumi/azure-udacity-report2/assets/132246132/dffbc857-6c51-455d-82ab-eff3848a5d35)
+
+And endpoint pipeline is created as shown below.
+
+![pipelineendpoint](https://github.com/uemuratakumi/azure-udacity-report2/assets/132246132/b14a18c4-1b3f-4c27-a9df-f3922e891919)
+
+The below image is information of pipeline endpoint.
+
+![status_endpoint](https://github.com/uemuratakumi/azure-udacity-report2/assets/132246132/0aa1af64-f3b6-4099-ba2f-a05fbb7c11be)
+
+This is RunDetails of pipeline experiment.
+
+![RunDetails](https://github.com/uemuratakumi/azure-udacity-report2/assets/132246132/47f8622c-25e4-4111-b8bc-ac169db64a2b)
+
+And pipeline status is "Completed".
+
+![pipelinecompleted](https://github.com/uemuratakumi/azure-udacity-report2/assets/132246132/5bcc3e4b-191e-4937-aa4a-c13580f1e40f)
 
