@@ -57,4 +57,23 @@ This is the sample of swagger operations.
 
 ![swagger03](https://github.com/uemuratakumi/azure-udacity-report2/assets/132246132/508fd7a0-f072-42b6-b880-2e8ce0e1ca9e)
 
+We can also check operation by using python script.
+
+This is the result of test by using endpoint.py that is provided by udacity github.
+
+![logspy](https://github.com/uemuratakumi/azure-udacity-report2/assets/132246132/c9bee30b-45e4-4ad1-943f-ef8b8848ae6f)
+
+### conduct pipeline test
+Let’s change to a different topic.
+
+I explain how to conduct the pipeline.
+
+The pipeline can make from pipeline section or Notebook.
+
+I try from Notebook by using ipynb file provided by udacity github.
+
+By conducted the ipynb file, the pipeline is created as shown below.
+
+![pipeline_create](https://github.com/uemuratakumi/azure-udacity-report2/assets/132246132/25d4e25c-4aad-4c87-95bd-502f31795a71)
+
 
