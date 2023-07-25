@@ -106,5 +106,3 @@ And pipeline status is "Completed".
 
 ### screen cast of how to use Azure-ML
 My screencast is upload on below.
-
-https://youtu.be/_2QR_fgWTUg
